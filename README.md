@@ -6,6 +6,8 @@ based on active status:
 - `transparency-toggle.py` for transparent active windows
 - `transparency-toggle-opaque.py` for opaque active windows
 
+![Demo toggling the transparency of two iTerm2 windows](https://github.com/dfpetrin/iterm2-auto-transparency-toggle/blob/main/demo.gif?raw=true)
+
 Created as a solution to [this Stack Overflow question](https://stackoverflow.com/questions/48470804/iterm2-transparent-transparent-background-for-inactive-windows/69908530).
 
 See the iTerm2 docs for details on [using Python scripts](https://iterm2.com/python-api/).
