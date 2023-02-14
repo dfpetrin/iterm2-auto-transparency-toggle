@@ -22,7 +22,7 @@ active status changes.
 ---
 
 macOS previously (macOS 11, Big Sur) treated windows the opposite of how people
-usually approach transparent terminal windows—it maked active windows
+usually approach transparent terminal windows—it made active windows
 transparent (at least, certain parts of them) and inactive ones opaque (and
 faded). You could see this when opening new tabs in Safari (if you didn't have a
 start page background image). It makes sense! The transparency creates a sense
